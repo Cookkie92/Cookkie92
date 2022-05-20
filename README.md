@@ -11,6 +11,7 @@ Have a look around and check out my projects.
 - ⚡ Fun fact: My dog stepped on a bee.
 
 - ✨Languages and tools i use =)
+
   -CSS
   -Javascript
   -HTML
