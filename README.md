@@ -1,5 +1,7 @@
-### Hi there 👋
-Welcome to my Github Profile 
+### Hello World, I'm Kristian/CooKKie - Front-end Development Student 👋
+
+Welcome to my Github Profile
+Check out my projects if you like.
 
 - 🔭 I’m currently working on my Portfolio website for a school project.
 - 🌱 I'm currently learning Front-end Development from Noroff school of technology.
