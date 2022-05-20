@@ -20,6 +20,8 @@ Have a look around and check out my projects.
   -Adobe XD
   -Adobe Photoshop
   -Hotjar
+  -Wordpress
+  -PHP
   
   
   # About Me
