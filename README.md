@@ -16,6 +16,10 @@ Have a look around and check out my projects.
   -HTML
   -Github
   -Visual Studio Code
+  -Postman
+  -Adobe XD
+  -Adobe Photoshop
+  -Hotjar
   
   
   # About Me
